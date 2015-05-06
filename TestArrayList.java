@@ -23,6 +23,7 @@ public class TestArrayList
       
       foo.set(4, "Does this really work?");
       System.out.println(foo); //nope cuz you can't set anything more than 1 past the end 
+      //this is a test for git
       
    }
 }
