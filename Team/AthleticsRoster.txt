@@ -1,0 +1,20 @@
+Sean Doolittle
+true
+Pitcher
+
+Coco Crisp
+true
+Outfielder
+
+Eric Sogard
+true
+Infielder
+
+Josh Phegley
+true
+Catcher
+
+Ben Zobrist
+true
+Infielder
+

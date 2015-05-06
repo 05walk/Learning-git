@@ -1,0 +1,28 @@
+Dustin Ackley
+true 
+Outfielder
+
+Mike Zunino
+true
+Catcher
+
+Kyle Seager
+true 
+Third Baseman
+
+Brad Miller
+true
+Shortstop
+
+Robinson Cano
+true
+Second Baseman
+
+Felix Hernandez
+true
+Pitcher
+
+Logan Morrison
+true
+First Baseman
+
